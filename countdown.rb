@@ -10,4 +10,4 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-def cou
+def countdown_with_sleep
